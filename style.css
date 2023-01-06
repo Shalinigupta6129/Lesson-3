@@ -3,7 +3,7 @@
 :root {
     --primary-color:#a21caf;
     --dark-gray: #6b7280;
-    --off-white: #f1f5f9;
+    --off-white: #fae8ff;
 }
 
 body {
@@ -167,3 +167,8 @@ footer ul{
     font-weight: bold;
     font-size: large;
 }
+
+.blogwritername{
+    font-weight: bold;
+}
+
