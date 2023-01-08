@@ -1,8 +1,8 @@
 # My Portfolio Website
 This is my portfolio website which showcase all my learnings and the apps which I made as part of neog camp.
 ## Technologies used:
-  * HTML
-  * CSS
+  * HTML5
+  * CSS3
  ## Hosted on
  Netlify
  ## Website Link
