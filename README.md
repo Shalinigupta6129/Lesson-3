@@ -25,7 +25,8 @@ Website is responsive.
 <img width="943" alt="image" src="https://user-images.githubusercontent.com/120921285/211171366-2a9768b1-065b-4549-88e0-a15bca20b960.png">
 
 ### Projects Page
-Image needs to be uploaded
+<img width="937" alt="image" src="https://user-images.githubusercontent.com/120921285/211254835-6f311d99-fe8a-41f2-b849-c11289095a9a.png">
+
 
 ### Blogs Page
 <img width="935" alt="image" src="https://user-images.githubusercontent.com/120921285/211171405-8f985e4e-9e06-494f-9f49-46ad7ba4e56c.png">
